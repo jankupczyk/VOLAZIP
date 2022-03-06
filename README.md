@@ -1,10 +1,9 @@
 ![VOLAZIP](dist/volazip.PNG)
 <br />
 <br />
-<br />
 
 # VOLAZIP
-VOLAZIP is a powerful tool that allows you to open secured zip, get the hash of any zip, open unsecured zip, etc...
+VOLAZIP is a powerful tool that allows you to open secured zip, get the hash of any zip, open unsecured zip and more...
 
 <br />
 <br />
