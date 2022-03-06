@@ -2,6 +2,7 @@
 VOLAZIP is a powerful tool that allows you to open secured zip, get the hash of any zip, open unsecured zip, etc...
 
 
+
 ### TUTORIAL
 1. Firstly rename your archive file to ```volazip.zip``` [```(supported: .zip, .rar, .rar4, .7z, .apk, .alz, .pak)```]
 2. Put your locked or unlocked archive file ```(supported: .zip, .rar, .rar4, .7z, .apk, .alz, .pak)``` inside ```(path: \VOLAZIP\locked zip)``` should look like this ```(VOLAZIP\volazip.zip)```
@@ -21,6 +22,17 @@ Type ```bso``` if you need special
 Type ```credits``` to see credits :)
 Type ```exit``` if you want leave
 
+
+
+### LINCENSE
+GNU. See ```LICENSE``` for more informations
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 
 *VOLAZIP reserves the right not to be held liable for any violation or damaged files by the volazip program, thus the user is responsible for all damaged files*
