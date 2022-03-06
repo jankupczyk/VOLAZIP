@@ -18,10 +18,15 @@ VOLAZIP is a powerful tool that allows you to open secured zip, get the hash of 
 And also there are some useful commands, down below:
 
 Type ```help``` if you need help or if u want to create ticket
+
 Type ```how``` if you dont know how to use VOLAZIP
+
 Type ```nvm``` if you want return to app
+
 Type ```bso``` if you need special
+
 Type ```credits``` to see credits :)
+
 Type ```exit``` if you want leave
 
 <br />
