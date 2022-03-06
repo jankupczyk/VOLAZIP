@@ -1,0 +1,3 @@
+to create exec of run.py simply type in terminal:
+
+pyinstaller --onefile run.py
